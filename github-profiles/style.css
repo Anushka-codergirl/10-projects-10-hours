@@ -97,7 +97,23 @@ input:focus {
 @media only screen and (max-width: 600px){
     .card {     
         padding: 2rem;
-        max-width: 400px;
+        max-width: 380px;
+    }
+    .user-info {
+        margin-left: 1rem;
+    }
+    .user-info ul {
+        max-width: 200px;
+    }
+    .user-info ul li strong {
+        font-size: 0.5rem;
+        margin-left: 0.2rem;
+    }
+    .repo {
+        font-size: 0.7rem;
+        padding: 0.15rem 0.2rem;
+        margin-right: 0.2rem;
+        margin-bottom: 0.2rem;
     }
     
 }
