@@ -109,6 +109,10 @@ input:focus {
         font-size: 0.5rem;
         margin-left: 0.2rem;
     }
+    .avatar {
+        height: 100px;
+        width: 100px;
+    }
     .repo {
         font-size: 0.7rem;
         padding: 0.15rem 0.2rem;
